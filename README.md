@@ -10,7 +10,6 @@ This is a simple Simon Game created using HTML, CSS, and JavaScript. The goal of
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [License](#license)
 
 ## Gameplay
 
